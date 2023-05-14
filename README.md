@@ -4,6 +4,11 @@ Application de traitement de fichiers CSV est un projet en Python qui utilise la
 
 ![Demo](demo_csv.png)
 
+1. Chargez un fichier avec le premier bouton
+2. Profitez des fonctionnalités
+3. Les résultats sont affichés dans le champ de texte
+4. Les modifications sur le fichier CSV sont visibles directement sur l'interface graphique
+
  ## 🚀 Fonctionnalités
 
 - Chargement d'un fichier CSV
@@ -14,6 +19,8 @@ Application de traitement de fichiers CSV est un projet en Python qui utilise la
 - Tri des lignes du fichier CSV
 - Exportation du tableau au format CSV
 
+
+### Explication du code
 
 L'application de traitement de fichiers CSV avec Tkinter est conçue en utilisant la bibliothèque Tkinter de Python pour créer une interface utilisateur graphique. Voici une explication technique du fonctionnement global du code :
 
